@@ -1,0 +1,16 @@
+.image {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+.backgroundcolour {
+  background-color:#ccc;
+}
+.line{
+    border-top: 4px dotted grey;
+    height: 1px;
+    width: 30%;
+
+
+ }
+ 
